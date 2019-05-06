@@ -1,1 +1,1 @@
-# Material para la clase de Principios de estadística
+# Material para la clase de Análisis Estadístico
