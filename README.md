@@ -12,3 +12,13 @@ La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar
 # Contenido del Curso
 
   - [Programa Analítico](Programa-analítico.md)
+
+-----
+
+
+## 0. Course Introduction, Data and Variables
+
+- :card_index: __Dates__: Jan 22-25
+- :paperclip: __Topics__: Understanding the concept of "data" for statistical analysis, the concept of variables, and the difference between qualitative and quantitative variables. Also, we'll discuss how to summarize information with frequency tables, and visual displays with bar-charts.
+- :file_folder: __Notes__:
+    + Welcome to Stat 131A (chalk and talk)
