@@ -11,4 +11,4 @@ La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar
 
 # Contenido del Curso
 
-  - [Programa Analítico](material-clase/Programa-analítico.md)
+  - [Programa Analítico](Programa-analítico.md)
