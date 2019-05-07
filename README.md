@@ -8,3 +8,7 @@ La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar
   - [R project](https://www.r-project.org/)
   - [Github](https://github.com/)
   - [Git](https://git-scm.com/)
+
+# Contenido del Curso
+
+  - [Programa Analítico](material-clase/Programa-analítico.md)
