@@ -19,9 +19,14 @@ Al finalizar el curso el estudiante:
   - [Git](https://git-scm.com/)
 
 
-# Contenido del Curso
+# Programación del Curso
 
-  - [Programa Analítico](Programa-analítico.md)
+- __Profesor__: Dr. Marco Aurelio González Tagle.
+- __Área__: Profesional.
+- __Curso__: Obligatorio.
+- __Créditos__: 3.
+- __Notas__ :file_folder: Contiene material visto en clase.
+- __Lecturas__ :book: Material disponible en la red para comprelentar la clase. 
 
 -----
 
@@ -32,12 +37,12 @@ Al finalizar el curso el estudiante:
 - :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su version de control.
 - :file_folder: __Notas__:
     + Bienvenida al curso 202 (presencial)
+    + Administrar una versión control con Rstudio y Github (presencial)
 - :book: __Lecturas__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
     + [Instalar R studio](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-rstudio)
     + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
     + [Crear una cuenta en Github](http://profesores.elo.utfsm.cl/~agv/elo329/1s14/Assignments/GuiaGitHub.pdf)
-    + Administrar una versión control con Rstudio y Github
 - :microscope: __Lab__: No
 - :dart: __Tarea__: *No*
 
@@ -45,17 +50,35 @@ Al finalizar el curso el estudiante:
 ## 1. Introducción: Datos y Variables
 
 - :card_index: __Fecha__: Agosto 05  (tarde)
-- :paperclip: __Topics__: Comprender el concepto de _Datos_ para el análisis estadístico, el concepto de variables y la diferencia entre variables cualitativas y cuantitativas. Además, analizaremos como resumir información con tablas de frecuencia y gráficos de barras.
+- :paperclip: __Temas__: Comprender el concepto de _Datos_ para el análisis estadístico, el concepto de variables y la diferencia entre variables cualitativas y cuantitativas. Además, analizaremos como resumir información con tablas de frecuencia y gráficos de barras.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
-    + 
+    +  uno
 - :dart: __Tarea 01__:
 
 
 ## 2. Resumiendo datos númerica y gráficamente
 
 - :card_index: __Fecha__: Agosto 06  (mañana)
-- :paperclip: __Topics__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central, sus significados, propiedades y como usarlos en la práctica.
+- :paperclip: __Temas__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central y dispersión, sus significados, propiedades y como usarlos en la práctica.
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: *No*
+- :dart: __Tarea 00__:
+
+## 3. Gráficos de dispersión y correlación
+
+- :card_index: __Fecha__: Agosto 07  (mañana)
+- :paperclip: __Temas__: Describir una variable a la vez puede ser demasiado limitante. Sin embargo, podemos enriquecer nuestro análisis estudiando si dos variables (cuantitativas) tienden a asociarse. Al igual que un caso univariado
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: *No*
+- :dart: __Tarea 00__:
+
+## 2. Resumiendo datos númerica y gráficamente
+
+- :card_index: __Fecha__: Agosto 06  (mañana)
+- :paperclip: __Temas__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central y dispersión, sus significados, propiedades y como usarlos en la práctica.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
 - :microscope: __Lab__: *No*
