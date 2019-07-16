@@ -28,12 +28,22 @@ Al finalizar el curso el estudiante:
 
 ## 0. Introducción al curso: R, Rstudio, Git (versión control)
 
-- :card_index: __Fecha__: Agosto 05
-- :paperclip: __Topics__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su version de control.
+- :card_index: __Fecha__: Agosto 05  (mañana)
+- :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su version de control.
 - :file_folder: __Notas__:
     + Bienvenida al curso 202 (presencial)
+- :book: __Lecturas__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
     + [Instalar R studio](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-rstudio)
     + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
     + [Crear una cuenta en Github](http://profesores.elo.utfsm.cl/~agv/elo329/1s14/Assignments/GuiaGitHub.pdf)
     + Administrar una versión control con Rstudio y Github
+- :microscope: __Lab__: *No*
+
+
+## 1. Introducción: Datos y Variables
+
+- :card_index: __Fecha__: Agosto 05  (tarde)
+- :paperclip: __Topics__: Comprender el concepto de _Datos_ para el análisis estadístico, el concepto de variables y la diferencia entre variables cualitativas y cuantitativas. Además, analizaremos como resumir información con tablas de frecuencia y gráficos de barras.
+- :file_folder: __Notas__:
+    + 
