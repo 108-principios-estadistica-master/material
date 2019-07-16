@@ -103,7 +103,7 @@ Al finalizar el curso el estudiante:
 - :book: __Lecturas__:
 - :microscope: __Lab__: 
 
-## 5. Análisis de varianza
+## 6. Análisis de varianza
 
 - :card_index: __Fecha__: Agosto 09  (mañana)
 - :paperclip: __Temas__: Un análisis de varianza permite determinar si diferentes tratamientos muestran diferencias significativas o por el contrario puede suponerse que sus medias poblacionales __no difieren__.
