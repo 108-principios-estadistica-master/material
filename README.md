@@ -1,6 +1,15 @@
 # Material para la clase de Análisis Estadístico
 
-La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para el diseño de experimentos así como el interpretar los datos colectados durante sus trabajos de tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con la carrera de Ingeniería Forestal. Entre ellas se incluye: el manejo de datos, la simulación de variables aleatorias, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
+La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para el diseño de experimentos así como el interpretar los datos colectados durante sus trabajos de tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la simulación de variables aleatorias, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
+
+## Objetivos
+
+Al finalizar el curso el estudiante:
+
+- Se habrá familiarizado con el uso de R en modo interactivo.
+- Será capaz de realizar análisis descriptivos básicos.
+- Desarrollará la habilidad en el análisis estadístico y principios de diseño que fundamentan la investigación científica en el manejo de los recursos forestales.
+- Obtendrá los elementos estadísticos necesarios para la síntesis y el análisis de datos, así como enfatizar su trascendencia e importancia en la solución de problemas en el ámbito forestal.
 
 # Software para el uso en clase
 
@@ -9,6 +18,7 @@ La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar
   - [Github](https://github.com/)
   - [Git](https://git-scm.com/)
 
+
 # Contenido del Curso
 
   - [Programa Analítico](Programa-analítico.md)
@@ -16,9 +26,10 @@ La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar
 -----
 
 
-## 0. Course Introduction, Data and Variables
+## 0. Introducción al curso: R, Rstudio, Git (versión control)
 
-- :card_index: __Dates__: Jan 22-25
-- :paperclip: __Topics__: Understanding the concept of "data" for statistical analysis, the concept of variables, and the difference between qualitative and quantitative variables. Also, we'll discuss how to summarize information with frequency tables, and visual displays with bar-charts.
-- :file_folder: __Notes__:
-    + Welcome to Stat 131A (chalk and talk)
+- :card_index: __Fecha__: Agosto 05
+- :paperclip: __Topics__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su version de control.
+- :file_folder: __Notas__:
+    + Bienvenida al curso 202 (presencial)
+    + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
