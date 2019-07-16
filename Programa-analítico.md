@@ -1,6 +1,0 @@
-- Profesor: Dr. Marco Aurelio González Tagle
-- Área: Profesional
-- Curso: Obligatorio
-- Semestre: Primero
-- Créditos: 3
-- Semester: Agosto - Diciembre  2019
