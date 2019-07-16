@@ -1,0 +1,75 @@
+---
+title: "Análisis Estadístico MCF-202"
+author: "Dr. Marco A. González Tagle"
+date: "Semestre Agosto 2016"
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+  pdf_document:
+    fig_caption: yes
+    highlight: tango
+    includes:
+      in_header: header.tex
+    toc: yes
+fontsize: 11pt
+classoption: a4paper
+---
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=100mm]{figuras/Rlogo.png}
+\end{figure}
+
+# Curso
+La asignatura esta diseñado para llevar al alumno al manejo y uso a nivel principiante e intermedio del software **R**. Para ello se realizan tareas sencillas, pero relevantes, relacionadas con el manejo y análisis de datos en el contexto estadístico y de la carrera de Ingeniero Forestal. Entre ellas se incluye el manejo de datos, la simulación de variables aleatorias en los casos univariante y multivariante, la representación gráfica de datos univariantes y multivariantes, y la programación de tareas estadísticas con el lenguaje de programación incluído en **R**.
+
+
+## Objetivo
+
+-   Desarrollar en los estudiantes la habilidad en el análisis estadístico y principios de diseño para la fundamentación de la investigación científica en el manejo de los recursos forestales.
+-   Proporcionar los elementos estadísticos necesarios para la síntesis y el análisis de datos, así como enfatizar su trascendencia e importancia en la solución de problemas en el ámbito forestal.
+
+El correcto entendimiento de los procedimientos se enfatizará a lo largo del curso y se reforzará mediante la elaboración de asignaciones individuales.
+
+## Contenido
+
+1.  Introducción al lenguaje R
+    -   R software: <http://www.r-project.org/>
+    -   RStudio: <http://rstudio.org/>
+    -   Importar datos provenientes de Excel
+    -   Ejercicio: Manipulación de datos en R
+
+2.  Estadísticas descriptivas de datos provenientes de inventarios
+    forestales
+    -   Ejercicio de estadísticas descriptivas
+    
+3.  Contraste de hipótesis
+    -   Pruebas de t
+    -   muestra única
+    -   muestras independientes
+    -   muestras dependientes
+
+4.  Regresión lineal y correlación
+
+5.  Análisis de varianza
+
+### Ejercicios
+
+El curso cuenta con cinco prácticas que deben de desarrollarse al finalizar las horas de trabajo en clase y un ejercicio final que se realizará al finalizar las dos semanas.
+
+1. Manipulación de datos en R
+2. Manipulación de datos en R y estadísticas básicas
+3. Correlación y regresión lineal
+4. Comparación de medias
+5. Análisis de varianza
+6. Ejercicio final de evaluación global
+
+### Entrega de tareas
+
+Para registrar exitosamente sus tareas en Evernote favor de seguir las siguientes instrucciones:
+
+1. Email: [mgtagle01.5730fe4@m.evernote.com](mgtagle01.5730fe4@m.evernote.com)
+
+Ejemplo
+Asunto: Marco A. González Tagle Matrícula 1213458 
