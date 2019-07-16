@@ -6,3 +6,7 @@ Introduccion/figuras/*.jpeg
 .*fuse_hidden0000019e00000001
 .*fuse_hidden0000020b00000001
 .fuse_hidden0000023e00000002
+.build/
+.cache/
+build/
+.uno/
