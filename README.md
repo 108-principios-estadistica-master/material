@@ -68,18 +68,44 @@ Al finalizar el curso el estudiante:
 
 ## 3. Gráficos de dispersión y correlación
 
-- :card_index: __Fecha__: Agosto 07  (mañana)
+- :card_index: __Fecha__: Agosto 06  (tarde)
 - :paperclip: __Temas__: Describir una variable a la vez puede ser demasiado limitante. Sin embargo, podemos enriquecer nuestro análisis estudiando si dos variables (cuantitativas) tienden a asociarse. Al igual que un caso univariado
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
 - :microscope: __Lab__: *No*
 - :dart: __Tarea 00__:
 
-## 2. Resumiendo datos númerica y gráficamente
+## 4. Regresión
 
-- :card_index: __Fecha__: Agosto 06  (mañana)
-- :paperclip: __Temas__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central y dispersión, sus significados, propiedades y como usarlos en la práctica.
+- :card_index: __Fecha__: Agosto 07  (mañana)
+- :paperclip: __Temas__: Cuando la asosiación entre dos variables cumple ciertos requisitos (por ejemplo asosiación lineal), dicha relación se puede resumir con la llamada __línea de regresión__. En consecuencia dedicaremos tiempo a estudiar los conceptos básicos de regresión, la herramienta más utilizada en estadística.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
-- :microscope: __Lab__: *No*
+- :microscope: __Lab__: 
+- :dart: __Tarea 00__:
+
+## 4. Intervalos de confianza
+
+- :card_index: __Fecha__: Agosto 08  (mañana)
+- :paperclip: __Temas__: En la inferencia, usamos una muestra para obtener una conclusión acerca de una población. Dos tipos de inferencias son el enfoque de nuestro trabajo en este curso: 1) estimar un parámetro de población con un intervalo de confianza; 2) probar una afirmaciónsobre un parámetro de población con una pruaba de hipótesis. El propósito de un intervalo de confianza es utilizar un estadístico de muestra (por ejemplo, proporción, media) para construir un intervalo de valores en los que podamos estar *razonablemente seguros* de que contiene el parámetro de la población.
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: 
+- :dart: __Tarea 00__:
+
+## 5. Pruebas de hipótesis
+
+- :card_index: __Fecha__: Agosto 08  (tarde)
+- :paperclip: __Temas__: Ahora examinaremos el segundo tipo de inferencia: probar una afirmación sobe un parámetro de la población. Comenzamos nuestra discusión de las pruebas de hipótesis con __preguntas de investigación__  que nos obligan a probar una afirmación.
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: 
+
+## 5. Análisis de varianza
+
+- :card_index: __Fecha__: Agosto 09  (mañana)
+- :paperclip: __Temas__: Cuando la asosiación entre dos variables cumple ciertos requisitos (por ejemplo asosiación lineal), dicha relación se puede resumir con la llamada __línea de regresión__. En consecuencia dedicaremos tiempo a estudiar los conceptos básicos de regresión, la herramienta más utilizada en estadística.
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: 
 - :dart: __Tarea 00__:
