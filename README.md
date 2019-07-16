@@ -26,7 +26,9 @@ Al finalizar el curso el estudiante:
 - __Curso__: Obligatorio.
 - __Créditos__: 3.
 - __Notas__ :file_folder: Contiene material visto en clase.
-- __Lecturas__ :book: Material disponible en la red para comprelentar la clase. 
+- __Lecturas__ :book: Material disponible en la red para comprelentar la clase.
+- __Lab__ :microscope: Procedimiento y código de la clase.
+- __Tarea__ :dart: Tareas del curso y deben realizarse antes de inicar el siguiente tema.
 
 -----
 
@@ -104,7 +106,7 @@ Al finalizar el curso el estudiante:
 ## 5. Análisis de varianza
 
 - :card_index: __Fecha__: Agosto 09  (mañana)
-- :paperclip: __Temas__: Cuando la asosiación entre dos variables cumple ciertos requisitos (por ejemplo asosiación lineal), dicha relación se puede resumir con la llamada __línea de regresión__. En consecuencia dedicaremos tiempo a estudiar los conceptos básicos de regresión, la herramienta más utilizada en estadística.
+- :paperclip: __Temas__: Un análisis de varianza permite determinar si diferentes tratamientos muestran diferencias significativas o por el contrario puede suponerse que sus medias poblacionales __no difieren__.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
 - :microscope: __Lab__: 
