@@ -33,3 +33,7 @@ Al finalizar el curso el estudiante:
 - :file_folder: __Notas__:
     + Bienvenida al curso 202 (presencial)
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
+    + [Instalar R studio](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-rstudio)
+    + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
+    + [Crear una cuenta en Github](http://profesores.elo.utfsm.cl/~agv/elo329/1s14/Assignments/GuiaGitHub.pdf)
+    + Administrar una versión control con Rstudio y Github
