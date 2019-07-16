@@ -3,3 +3,12 @@
 .RData
 .Ruserdata
 *.html
+
+Introduccion.html
+*.tex
+
+# Figuras texto
+
+Introduccion/figuras/*.png
+
+Introduccion/figuras/*.jpeg
