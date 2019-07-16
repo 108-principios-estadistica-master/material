@@ -38,7 +38,8 @@ Al finalizar el curso el estudiante:
     + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
     + [Crear una cuenta en Github](http://profesores.elo.utfsm.cl/~agv/elo329/1s14/Assignments/GuiaGitHub.pdf)
     + Administrar una versión control con Rstudio y Github
-- :microscope: __Lab__: *No*
+- :microscope: __Lab__: No
+- :dart: __Tarea__: *No*
 
 
 ## 1. Introducción: Datos y Variables
@@ -46,4 +47,16 @@ Al finalizar el curso el estudiante:
 - :card_index: __Fecha__: Agosto 05  (tarde)
 - :paperclip: __Topics__: Comprender el concepto de _Datos_ para el análisis estadístico, el concepto de variables y la diferencia entre variables cualitativas y cuantitativas. Además, analizaremos como resumir información con tablas de frecuencia y gráficos de barras.
 - :file_folder: __Notas__:
+- :book: __Lecturas__:
     + 
+- :dart: __Tarea 01__:
+
+
+## 2. Resumiendo datos númerica y gráficamente
+
+- :card_index: __Fecha__: Agosto 06  (mañana)
+- :paperclip: __Topics__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central, sus significados, propiedades y como usarlos en la práctica.
+- :file_folder: __Notas__:
+- :book: __Lecturas__:
+- :microscope: __Lab__: *No*
+- :dart: __Tarea 00__:
