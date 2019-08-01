@@ -1,12 +1,12 @@
 # Material para la clase de Análisis Estadístico
 
-La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para el diseño de experimentos así como el interpretar los datos colectados durante sus trabajos de tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la simulación de variables aleatorias, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
+La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para interpretar los datos colectados en campo, laboratporio o experimentos durante su tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
 
 ## Objetivos
 
 Al finalizar el curso el estudiante:
 
-- Se habrá familiarizado con el uso de R en modo interactivo.
+- Se habrá familiarizado con el uso de R.
 - Será capaz de realizar análisis descriptivos básicos.
 - Desarrollará la habilidad en el análisis estadístico y principios de diseño que fundamentan la investigación científica en el manejo de los recursos forestales.
 - Obtendrá los elementos estadísticos necesarios para la síntesis y el análisis de datos, así como enfatizar su trascendencia e importancia en la solución de problemas en el ámbito forestal.
@@ -86,7 +86,7 @@ Al finalizar el curso el estudiante:
 - :microscope: __Lab__: 
 - :dart: __Tarea 00__:
 
-## 4. Intervalos de confianza
+## 5. Intervalos de confianza
 
 - :card_index: __Fecha__: Agosto 08  (mañana)
 - :paperclip: __Temas__: En la inferencia, usamos una muestra para obtener una conclusión acerca de una población. Dos tipos de inferencias son el enfoque de nuestro trabajo en este curso: 1) estimar un parámetro de población con un intervalo de confianza; 2) probar una afirmaciónsobre un parámetro de población con una pruaba de hipótesis. El propósito de un intervalo de confianza es utilizar un estadístico de muestra (por ejemplo, proporción, media) para construir un intervalo de valores en los que podamos estar *razonablemente seguros* de que contiene el parámetro de la población.
@@ -95,7 +95,7 @@ Al finalizar el curso el estudiante:
 - :microscope: __Lab__: 
 - :dart: __Tarea 00__:
 
-## 5. Pruebas de hipótesis
+## 6. Pruebas de hipótesis
 
 - :card_index: __Fecha__: Agosto 08  (tarde)
 - :paperclip: __Temas__: Ahora examinaremos el segundo tipo de inferencia: probar una afirmación sobe un parámetro de la población. Comenzamos nuestra discusión de las pruebas de hipótesis con __preguntas de investigación__  que nos obligan a probar una afirmación.
@@ -103,7 +103,7 @@ Al finalizar el curso el estudiante:
 - :book: __Lecturas__:
 - :microscope: __Lab__: 
 
-## 6. Análisis de varianza
+## 7. Análisis de varianza
 
 - :card_index: __Fecha__: Agosto 09  (mañana)
 - :paperclip: __Temas__: Un análisis de varianza permite determinar si diferentes tratamientos muestran diferencias significativas o por el contrario puede suponerse que sus medias poblacionales __no difieren__.
