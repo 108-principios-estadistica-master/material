@@ -1,6 +1,6 @@
-# Material para la clase de Análisis Estadístico
+# Material para la clase de Principios de estadística
 
-La unidad de aprendizaje **Análisis Estadístico** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para interpretar los datos colectados en campo, laboratorio o experimentos durante su tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
+La unidad de aprendizaje **Principios de estadística** esta diseñada para enseñar al estudiante los elementos de estadística necesarios para interpretar los datos colectados en campo, laboratorio o experimentos durante su tesis. El curso esta basado en el manejo y uso del software **R** para llevar al alumno a un nivel intermedio. Para lograr este objetivo durante el periodo de clases se realizarán tareas sencillas, pero relevantes, relacionadas con las Ciencias Forestales. Entre ellas se incluye: el manejo de datos, la representación gráfica de datos y la solución de tareas estadísticas con el lenguaje de programación **R**.
 
 ## Objetivos
 
@@ -35,10 +35,10 @@ Al finalizar el curso el estudiante:
 
 ## 0. Introducción al curso: R, Rstudio, Git (versión control)
 
-- :card_index: __Fecha__: Agosto 05  (mañana)
-- :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su version de control.
+- :card_index: __Fecha__: Semana 1
+- :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su versión de control.
 - :file_folder: __Notas__:
-    + [Bienvenida al curso 202 (presencial)](Introduccion/Introduccion.pdf)
+    + [Bienvenida al curso 108 (presencial)](Introduccion/Introduccion.pdf)
     + Administrar una versión control con Rstudio y Github (presencial)
 - :book: __Lecturas__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
@@ -51,7 +51,7 @@ Al finalizar el curso el estudiante:
 
 ## 1. Introducción: Datos y Variables
 
-- :card_index: __Fecha__: Agosto 05  (tarde)
+- :card_index: __Fecha__: Semana 2
 - :paperclip: __Temas__: Comprender el concepto de _Datos_ para el análisis estadístico, el concepto de variables y la diferencia entre variables cualitativas y cuantitativas. Además, analizaremos como resumir información con tablas de frecuencia y gráficos de barras.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -61,7 +61,7 @@ Al finalizar el curso el estudiante:
 
 ## 2. Resumiendo datos númerica y gráficamente
 
-- :card_index: __Fecha__: Agosto 06  (mañana)
+- :card_index: __Fecha__: Semana 3
 - :paperclip: __Temas__: Comprender los histogramas, cómo leerlos, cómo graficarlos. Del mismo modo hablaremos sobre las medidas de tendencia central y dispersión, sus significados, propiedades y como usarlos en la práctica.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -70,7 +70,7 @@ Al finalizar el curso el estudiante:
 
 ## 3. Gráficos de dispersión y correlación
 
-- :card_index: __Fecha__: Agosto 06  (tarde)
+- :card_index: __Fecha__: Semana 4
 - :paperclip: __Temas__: Describir una variable a la vez puede ser demasiado limitante. Sin embargo, podemos enriquecer nuestro análisis estudiando si dos variables (cuantitativas) tienden a asociarse. Al igual que un caso univariado
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -79,7 +79,7 @@ Al finalizar el curso el estudiante:
 
 ## 4. Regresión
 
-- :card_index: __Fecha__: Agosto 07  (mañana)
+- :card_index: __Fecha__: Semana 5
 - :paperclip: __Temas__: Cuando la asosiación entre dos variables cumple ciertos requisitos (por ejemplo asosiación lineal), dicha relación se puede resumir con la llamada __línea de regresión__. En consecuencia dedicaremos tiempo a estudiar los conceptos básicos de regresión, la herramienta más utilizada en estadística.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -88,7 +88,7 @@ Al finalizar el curso el estudiante:
 
 ## 5. Intervalos de confianza
 
-- :card_index: __Fecha__: Agosto 08  (mañana)
+- :card_index: __Fecha__: Semana 6
 - :paperclip: __Temas__: En la inferencia, usamos una muestra para obtener una conclusión acerca de una población. Dos tipos de inferencias son el enfoque de nuestro trabajo en este curso: 1) estimar un parámetro de población con un intervalo de confianza; 2) probar una afirmaciónsobre un parámetro de población con una pruaba de hipótesis. El propósito de un intervalo de confianza es utilizar un estadístico de muestra (por ejemplo, proporción, media) para construir un intervalo de valores en los que podamos estar *razonablemente seguros* de que contiene el parámetro de la población.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -97,7 +97,7 @@ Al finalizar el curso el estudiante:
 
 ## 6. Pruebas de hipótesis
 
-- :card_index: __Fecha__: Agosto 08  (tarde)
+- :card_index: __Fecha__: Semana 7
 - :paperclip: __Temas__: Ahora examinaremos el segundo tipo de inferencia: probar una afirmación sobe un parámetro de la población. Comenzamos nuestra discusión de las pruebas de hipótesis con __preguntas de investigación__  que nos obligan a probar una afirmación.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
@@ -105,7 +105,7 @@ Al finalizar el curso el estudiante:
 
 ## 7. Análisis de varianza
 
-- :card_index: __Fecha__: Agosto 09  (mañana)
+- :card_index: __Fecha__: Semana 8
 - :paperclip: __Temas__: Un análisis de varianza permite determinar si diferentes tratamientos muestran diferencias significativas o por el contrario puede suponerse que sus medias poblacionales __no difieren__.
 - :file_folder: __Notas__:
 - :book: __Lecturas__:
