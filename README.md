@@ -26,7 +26,7 @@ Al finalizar el curso el estudiante:
 - __Curso__: Obligatorio.
 - __Créditos__: 3.
 - __Notas__ :file_folder: Contiene material visto en clase.
-- __Lecturas__ :book: Material disponible en la red para comprelentar la clase.
+- __Recursos__ :book: Material disponible en la red para comprelentar la clase.
 - __Lab__ :microscope: Procedimiento y código de la clase.
 - __Tarea__ :dart: Tareas del curso y deben realizarse antes de inicar el siguiente tema.
 
@@ -40,7 +40,7 @@ Al finalizar el curso el estudiante:
 - :file_folder: __Notas__:
     + [Bienvenida al curso 108 (presencial)](Introduccion/Introduccion.pdf)
     + Administrar una versión control con Rstudio y Github (presencial)
-- :book: __Lecturas__:
+- :book: __Recursos__:
     + [Instalación de R](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-r)
     + [Instalar R studio](https://bookdown.org/matiasandina/R-intro/introduccion.html#instalar-rstudio)
     + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
