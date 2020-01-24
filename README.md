@@ -35,7 +35,7 @@ Al finalizar el curso el estudiante:
 
 ## 0. Introducción al curso: R, Rstudio, Git (versión control)
 
-- :card_index: __Fecha__: Semana 1
+- :card_index: __Fecha__: Semana 1 (22-23.01.2020)
 - :paperclip: __Temas__: Admistrar el proyecto de la Unidad de Aprendizaje (UA) en el ambiente R y su versión de control.
 - :file_folder: __Notas__:
     + [Bienvenida al curso 108 (presencial)](Introduccion/Introduccion.pdf)
@@ -46,7 +46,7 @@ Al finalizar el curso el estudiante:
     + [Instalar Git](https://git-scm.com/book/es/v1/Empezando-Instalando-Git)
     + [Crear una cuenta en Github](http://profesores.elo.utfsm.cl/~agv/elo329/1s14/Assignments/GuiaGitHub.pdf)
 - :microscope: __Lab__: No
-- :dart: __Tarea__: *No*
+- :dart: __Tarea__: *00-Asignación*
 
 
 ## 1. Introducción: Datos y Variables
